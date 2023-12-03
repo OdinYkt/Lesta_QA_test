@@ -1,6 +1,6 @@
 # Тестовое задание на позицию QA Automation Engineer
 
-Результаты выполнения тестового задания на позицию QA Automation Engineer.
+## Результаты выполнения тестового задания на позицию QA Automation Engineer.
 
 Решение разделено на два модуля:
 
@@ -22,8 +22,8 @@
 
 
 
-# Requirements
+## Requirements
     python 3.9.8
 
-# Setup
+## Setup
     pip install -r requirements.txt
